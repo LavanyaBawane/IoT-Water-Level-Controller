@@ -36,6 +36,10 @@ The main objective of the project is to automate water level monitoring, reduce 
 
 The circuit consists of an ESP32 microcontroller interfaced with an ultrasonic sensor for water level measurement, an OLED display for real-time monitoring, and a buzzer with LED indicators for alerts.
 
+### Circuit Diagram
+
+![Circuit Diagram](circuit_diagram_waterlevelcontroller-1.png)
+
 *(Circuit diagram uploaded separately in this repository.)*
 
 ---
@@ -64,6 +68,10 @@ The ESP32 can also transmit data through Wi-Fi, making the system suitable for f
 ## Hardware Prototype
 
 A working hardware prototype was developed using ESP32, ultrasonic sensing, OLED display, buzzer, and indicator LEDs.
+
+### Hardware Prototype
+
+![Hardware Prototype](hardware_prototype_waterlevelcontroller-1.jpg)
 
 *(Hardware image uploaded separately in this repository.)*
 
